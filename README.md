@@ -1,4 +1,3 @@
-
 #### To run the script (run_analysis.R) follow the following steps:
 ---------------------------------------------------------------------
 
@@ -13,7 +12,8 @@
 
 3. Run RStudio or an other IDE for R.
 
-4. Write in R console the folowing commande : source("pathLocalRepository/run_analysis.R")
+4. Write in R console the folowing commande :
+  * source("pathLocalRepository/run_analysis.R")
 
 5. The tidy data set is txt file named (tidyDataSet.txt) created in the Local repository.
   
