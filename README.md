@@ -1,6 +1,5 @@
 
-
-#### To run thescript (run_analysis.R) follow the following steps:
+#### To run the script (run_analysis.R) follow the following steps:
 ---------------------------------------------------------------------
 
 1. Clone the repository in your machine.
