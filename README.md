@@ -1,8 +1,8 @@
-Getting-and-Cleaning-Data
-=========================
 
-#### To run thescript(run_analysis.R) follow the following steps:
+
+#### To run thescript (run_analysis.R) follow the following steps:
 ---------------------------------------------------------------------
+
 1. Clone the repository in your machine.
   
   * Create new folder in your computer as local repository.
